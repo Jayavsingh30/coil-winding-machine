@@ -1,7 +1,7 @@
 #include <LCDWIKI_GUI.h>
 #include <LCDWIKI_SPI.h>
 #include <Servo.h>
-#include "tesla_bg.h" // Generated header with your background image
+#include "tesla_bg.h" 
 
 // ----- Hardware Configuration -----
 #define MODEL ILI9341
