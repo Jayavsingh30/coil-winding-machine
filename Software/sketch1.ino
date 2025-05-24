@@ -1,4 +1,4 @@
-#include <LCDWIKI_GUI.h>c:\Users\JAYAVARDHAN SINGH\OneDrive\Desktop\testing\coil-winding-machine-main\Software\sketch.ino
+#include <LCDWIKI_GUI.h>
 #include <LCDWIKI_SPI.h>
 #include <Servo.h>
 
